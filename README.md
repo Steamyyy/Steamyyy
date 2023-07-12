@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Steamyyy
 - 👀 I’m interested in web-development and cyber security and Lord of The Rings
-- 🌱 I’m currently learning front-end
+- 🌱 I’m currently learning Pen Testing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: michellez555fru666@gmail.com
 
